@@ -197,8 +197,8 @@ Arbaic - PC keyboard
 
 - You should be in a breakout room.
 - Down the hall to the left.
-- Sunday
-- Monday
+- Sunday = ahad
+- Monday = ethneen
 - Tuesdayday
 - Wednesday
 - Thursday
